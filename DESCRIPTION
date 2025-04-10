@@ -1,6 +1,7 @@
 Package: BNG
 Type: Package
 Title: BNG Calculator Package
+Version: 0.1.0
 Authors@R: person("Luke", "Bentley", email = "l.bentley@example.com", role = c("aut", "cre"))
 Description: A package for calculating Biodiversity Net Gain (BNG) units using habitat lookup data.
 Depends: R (>= 3.5.0)
