@@ -1,0 +1,14 @@
+Package: BNG
+Type: Package
+Title: BNG Calculator Package
+Authors@R: person("Luke", "Bentley", email = "l.bentley@example.com", role = c("aut", "cre"))
+Description: A package for calculating Biodiversity Net Gain (BNG) units using habitat lookup data.
+Depends: R (>= 3.5.0)
+Imports: sf, dplyr
+License: MIT
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Packaged: 2025-03-18 12:09:24 UTC; lexiz
+Author: Luke Bentley [aut, cre]
+Maintainer: Luke Bentley <l.bentley@example.com>

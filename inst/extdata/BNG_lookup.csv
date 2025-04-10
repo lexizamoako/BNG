@@ -1,0 +1,349 @@
+HabCode_B,UKHab,Ukhab_name,Distinctiveness,technical_difficulty_creation,length_good,length_fairly_good,length_moderate,length_fairly_poor,length_poor
+A1,w,Woodland and forest,4,1,30+,25,15,7,5
+A11,w1,Woodland and forest - Broadleaved mixed and yew woodland,4,1,30+,25,15,7,5
+A11/A2,w1,Woodland and forest - Broadleaved mixed and yew woodland,4,1,30+,25,15,7,5
+A11_AW,w1,Woodland and forest - Broadleaved mixed and yew woodland,4,1,30+,25,15,7,5
+A111,w1 37,Woodland and forest - Broadleaved mixed and yew woodland; semi-natural woodland,4,1,30+,25,15,7,5
+A111/A2,w1 37,Woodland and forest - Broadleaved mixed and yew woodland; semi-natural woodland,4,1,30+,25,15,7,5
+A112,w1g7 36,Woodland and forest - Other broadleaved woodland types; plantation,4,1,30+,25,15,7,5
+A112/A2,w1g7 36,Woodland and forest - Other broadleaved woodland types; plantation,4,1,30+,25,15,7,5
+A11-O,w1g7 36,Woodland and forest - Other broadleaved woodland types; plantation,4,1,30+,25,15,7,5
+A112o_T,w1g7 36,Woodland and forest - Other broadleaved woodland types; plantation,4,1,30+,25,15,7,5
+A112o,w1g7 36,Woodland and forest - Other broadleaved woodland types; plantation,4,1,30+,25,15,7,5
+A12,w2,Woodland and forest - Coniferous woodland,2,1,30+,30+,30,10,5
+A12/A2,w2,Woodland and forest - Coniferous woodland,2,1,30+,30+,30,10,5
+A12_AW,w2,Woodland and forest - Coniferous woodland,2,1,30+,30+,30,10,5
+A121,w2 37,Woodland and forest - Coniferous woodland; semi-natural,2,1,30+,30+,30,10,5
+A121/A2,w2 37,Woodland and forest - Coniferous woodland; semi-natural,2,1,30+,30+,30,10,5
+A122,w2c,Woodland and forest - Other coniferous woodland,2,1,30+,30+,30,10,5
+A122/A2,w2c,Woodland and forest - Other coniferous woodland,2,1,30+,30+,30,10,5
+A13,w1h,Woodland and forest - Other woodland; mixed,4,1,30+,30+,30,10,5
+A13/A2,w1h,Woodland and forest - Other woodland; mixed,4,1,30+,30+,30,10,5
+A131,w1h 37,Woodland and forest - Other woodland; mixed; Semi-natural woodland,4,1,30+,30+,30,10,5
+A131/A2,w1h 37,Woodland and forest - Other woodland; mixed; Semi-natural woodland,4,1,30+,30+,30,10,5
+A132,w1h 36,Woodland and forest - Other woodland; mixed; plantation,4,1,30+,30+,30,10,5
+A132/A2,w1h 36,Woodland and forest - Other woodland; mixed; plantation,4,1,30+,30+,30,10,5
+A2,h3h,Heathland and shrub - Mixed scrub,4,1,10,7,5,3,1
+A21,h3h,Heathland and shrub - Mixed scrub,4,1,10,7,5,3,1
+A22,h3h,Heathland and shrub - Mixed scrub,4,1,10,7,5,3,1
+A2m,h3h,Heathland and shrub - Mixed scrub,4,1,10,7,5,3,1
+A3,w 20,Woodland and forest - Wood-pasture and parkland,8,0.1,30+,30+,30+,25,10
+A31,w1 20,Woodland and forest - Broadleaved mixed and yew woodland; Wood-pasture and parkland,8,0.1,30+,30+,30+,25,10
+A31/A2,w1 20,Woodland and forest - Broadleaved mixed and yew woodland; Wood-pasture and parkland,8,0.1,30+,30+,30+,25,10
+A32,w2 20,Woodland and forest - Coniferous woodland; Wood-pasture and parkland,8,0.1,30+,30+,30+,25,10
+A32/A2,w2 20,Woodland and forest - Coniferous woodland; Wood-pasture and parkland,8,0.1,30+,30+,30+,25,10
+A33,w1h 20,Woodland and forest - Other woodland; mixed; Wood-pasture and parkland,8,0.1,30+,30+,30+,25,10
+A33/A2,w1h 20,Woodland and forest - Other woodland; mixed; Wood-pasture and parkland,8,0.1,30+,30+,30+,25,10
+A3p,w 20,Woodland and forest - Wood-pasture and parkland,8,0.1,30+,30+,30+,25,10
+A41,w1 53,Woodland and forest - Broadleaved mixed and yew woodland; Felled,6,1,30+,Not Possible,Not Possible,Not Possible,Not Possible
+A42,w2 53,Woodland and forest - Coniferous woodland; Felled,6,1,30+,Not Possible,Not Possible,Not Possible,Not Possible
+A43,w1h 53,Woodland and forest - Other woodland; mixed; Felled,6,1,30+,Not Possible,Not Possible,Not Possible,Not Possible
+Au_SN,w1h 37,Woodland and forest - Other woodland; mixed; Semi-natural woodland,4,1,30+,30+,30,10,5
+B/C31,g3c 16,Grassland - Other neutral grassland; Tall herb,2,1,30+,25,20,15,10
+B11,g1a 80,Grassland - Lowland dry acid grassland; Unmanaged,4,0.33,30+,25,20,15,10
+B11a,g1a 80,Grassland - Lowland dry acid grassland; Unmanaged,4,0.33,30+,25,20,15,10
+B11m,g1a 80,Grassland - Lowland dry acid grassland; Unmanaged,4,0.33,30+,25,20,15,10
+B12,g1a 77,Grassland - Lowland dry acid grassland; Neglected,4,0.33,30+,25,20,15,10
+B21,g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+B22,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+B31,g2a,Grassland - Lowland calcareous grassland,6,0.33,20,15,10,8,5
+B32,g2a 77,Grassland - Lowland calcareous grassland; Neglected,6,0.33,20,15,10,8,5
+B4,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+B4/Bu,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+B4/J11,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+B4/J11Urb,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+B4f,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+B4Urb,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+B5,f2b,Wetland - Purple moor grass and rush pastures,8,0.33,30,25,20,15,10
+B5/B(u),f2b,Wetland - Purple moor grass and rush pastures,8,0.33,30,25,20,15,10
+B5/E3/F,f2b,Wetland - Purple moor grass and rush pastures,8,0.33,30,25,20,15,10
+B5/E3/F/H2,f2b,Wetland - Purple moor grass and rush pastures,8,0.33,30,25,20,15,10
+B5/E3/F/H2_Bu,f2b,Wetland - Purple moor grass and rush pastures,8,0.33,30,25,20,15,10
+B6,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+B6/J3,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+B6/J3Urb,u1d,Urban - Suburban/mosaic of developed/natural surface,2,1,7,5,4,2,1
+Bu,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu/A11(A2),g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu/A112,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu/A12,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu/A122,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu_A1/A2,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu_A11,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu_A11/A2,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu_A112,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu_A12,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu_A2/A3,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu_A2/A31,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu_A31,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu_A32,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu_Au,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bu1,g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+Bu1/A11(A2),g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+"Bu1/A11,A2",g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+Bu1/A112,g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+Bu1/A12,g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+Bu1/A122,g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+Bu1/A2,g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+"Bu1/A2,A3",g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+Bu1/Bu2,g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+Bu1/Bu2Urb,g3a,Grassland - Lowland meadows,8,0.33,15,12,10,8,5
+Bu2,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Bui,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+BuiUrb,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+Buu,g3c,Grassland - Other neutral grassland,4,1,10,7,5,3,2
+Buu/C31,g3c 16,Grassland - Other neutral grassland; Tall herb,2,1,30+,25,20,15,10
+C11,g1c,Grassland - Bracken,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+C12,g1c 12,Grassland - Bracken; Scattered,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+C31,g3c 16,Grassland - Other neutral grassland; Tall herb,2,1,30+,25,20,15,10
+C31rv,g3c 16,Grassland - Other neutral grassland; Tall herb,2,1,30+,25,20,15,10
+C32,g3c 17,Grassland - Other neautral grassland; Ruderal/ephemeral,2,1,30+,25,20,15,10
+C3u,g3c 16,Grassland - Other neutral grassland; Tall herb,2,1,30+,25,20,15,10
+D,h,Heathland and shrub,6,0.33,30+,25,20,15,10
+D/E,h,Heathland and shrub,6,0.33,30+,25,20,15,10
+D/E/Bu/I,h,Heathland and shrub,6,0.33,30+,25,20,15,10
+D/I,h,Heathland and shrub,6,0.33,30+,25,20,15,10
+D/I1,h,Heathland and shrub,6,0.33,30+,25,20,15,10
+D_B5/E3/F/H2,h1a7,Heathland and shrub - Wet heathland with cross-leaved heath; lowland,6,0.33,30+,25,20,15,10
+D11,h1a,Heathland and shrub - Lowland heathland,6,0.33,30+,25,20,15,10
+D12,h1,Heathland and shrub - Dwarf shrub heath,6,0.33,30+,25,20,15,10
+D1u,h1,Heathland and shrub - Dwarf shrub heath,6,0.33,30+,25,20,15,10
+D2,h1a7,Heathland and shrub - Wet heathland with cross-leaved heath; lowland,6,0.33,30+,25,20,15,10
+D3,h1a,Heathland and shrub - Lowland heathland,6,0.33,30+,25,20,15,10
+D4,h1c,Heathland and shrub - Mountain heaths and willow scrub,8,0.33,30+,30+,25,23,15
+D5,h1a5,"Heathland and shrub - Dry heaths, lowland",6,0.33,30+,25,20,15,10
+D5/Au,h1a5,"Heathland and shrub - Dry heaths, lowland",6,0.33,30+,25,20,15,10
+D5/D6,h1a5,"Heathland and shrub - Dry heaths, lowland",6,0.33,30+,25,20,15,10
+D5_Au,h1a5,"Heathland and shrub - Dry heaths, lowland",6,0.33,30+,25,20,15,10
+D5_Bu_Au,h1a5,"Heathland and shrub - Dry heaths, lowland",6,0.33,30+,25,20,15,10
+D5h,h1a5,"Heathland and shrub - Dry heaths, lowland",6,0.33,30+,25,20,15,10
+D5h_A2,h1a5,"Heathland and shrub - Dry heaths, lowland",6,0.33,30+,25,20,15,10
+D6,h1a7,Heathland and shrub - Wet heathland with cross-leaved heath; lowland,6,0.33,30+,25,20,15,10
+Du,h,Heathland and shrub,6,0.33,30+,25,20,15,10
+E161,f1b5,Wetland - Active raised bogs,8,0.1,30+,30+,30,20,15
+E162,f1b5,Wetland - Active raised bogs,8,0.1,30+,30+,30,20,15
+E17,f1b6,Wetland - Degraded raised bog,8,0.1,30+,30+,30,20,15
+E18,f1b6,Wetland - Degraded raised bog,8,0.1,30+,30+,30,20,15
+E1u,f1,Wetland - Bog,8,0.1,30+,30+,30,20,15
+E1u (Au),f1,Wetland - Bog,8,0.1,30+,30+,30,20,15
+E2/E3/F1,f2 128/129,Wetland - Fen marsh and swamp; Spring/flush,8,0.33,30,25,20,15,10
+E21,f2 135,Wetland - Fen marsh and swamp; Acid substrate,8,0.33,30,25,20,15,10
+E22,f2 134,Wetland - Fen marsh and swamp; Base-rich substrate,8,0.33,30,25,20,15,10
+E3/F1,f2,Wetland - Fen marsh and swamp,8,0.33,30,25,20,15,10
+E31,f2 187,Wetland - Fen marsh and swamp; Valley fen,8,0.33,30,25,20,15,10
+E32,f2 179,Wetland - Fen marsh and swamp; Basin fen,8,0.33,30,25,20,15,10
+E33,f2 180,Wetland - Fen marsh and swamp; Flood plain fen,8,0.33,30,25,20,15,10
+E3u,f2,Wetland - Fen marsh and swamp,8,0.33,30,25,20,15,10
+E4,f2,Wetland - Fen marsh and swamp,8,0.33,30,25,20,15,10
+F1,f2 173,Wetland - Fen marsh and swamp; Swamp,8,0.33,30,25,20,15,10
+Fu,f2 173,Wetland - Fen marsh and swamp; Swamp,8,0.33,30,25,20,15,10
+G,r1,Rivers and lakes - Standing open water and canals,4,1,10,7,5,3,1
+G16,t2g5,Marine inlets and transitional waters - Saline lagoons,6,0.67,10,8,5,3,1
+G1u,r1,Rivers and lakes - Standing open water and canals,4,1,10,7,5,3,1
+G26,t2g5,Marine inlets and transitional waters - Saline lagoons,6,0.67,10,8,5,3,1
+Gt,t2g5,Marine inlets and transitional waters - Saline lagoons,6,0.67,10,8,5,3,1
+G2u,r2,Rivers and lakes - Rivers and streams,4,1,10,7,5,3,1
+G3,t2g5,Marine inlets and transitional waters - Saline lagoons,6,0.67,10,8,5,3,1
+H11,t2,Marine inlets and transitional waters - Littoral sediment,6,0.33,5,4,3,2,1
+H12,t,Marine inlets and transitional waters,4,0.67,4,2,1,1,1
+H13,t1d,Marine inlets and transitional waters - Estuarine rocky habitats,6,0.33,13,8,4,2,1
+H1,t,Marine inlets and transitional waters,4,0.67,4,2,1,1,1
+H1u,t,Marine inlets and transitional waters,4,0.67,4,2,1,1,1
+H1ua,t,Marine inlets and transitional waters,4,0.67,4,2,1,1,1
+H24,t2a5,Marine inlets and transitional waters - Glasswort and other annuals colonising mud and sand,6,0.33,3,2,1,1,1
+H26,t2a6,Marine inlets and transitional waters - Cord-grass swards,6,0.33,3,2,1,1,1
+H2u,t2a,Marine inlets and transitional waters - Coastal saltmarsh,6,0.33,3,2,1,1,1
+H3,s3b,Sparsely vegetated land - Coastal vegetated shingle,6,0.1,5,4,3,2,1
+H3/H5,s3b,Sparsely vegetated land - Coastal vegetated shingle,6,0.1,5,4,3,2,1
+H3/H6u,s3b,Sparsely vegetated land - Coastal vegetated shingle,6,0.1,5,4,3,2,1
+H3/H5/H6,s3b,Sparsely vegetated land - Coastal vegetated shingle,6,0.1,5,4,3,2,1
+H4,s2a,Sparsely vegetated land - Maritime cliff and slopes,6,0.33,20,15,10,7,5
+H64,s3a,Sparsely vegetated land - Coastal sand dunes,6,0.1,20,15,10,7,5
+H65,s3a7,Sparsely vegetated land - Dune grassland,6,0.33,20,15,10,7,5
+H66,s3a,Sparsely vegetated land - Coastal sand dunes,6,0.1,20,15,10,7,5
+H67,s3a,Sparsely vegetated land - Coastal sand dunes,6,0.1,20,15,10,7,5
+H68,s3a,Sparsely vegetated land - Coastal sand dunes,6,0.1,20,15,10,7,5
+H6u,s3a,Sparsely vegetated land - Coastal sand dunes,6,0.1,20,15,10,7,5
+H8,s2a,Sparsely vegetated land - Maritime cliff and slopes,6,0.33,20,15,10,7,5
+H81,s2a,Sparsely vegetated land - Maritime cliff and slopes,6,0.33,20,15,10,7,5
+H82,s2a6,Sparsely vegetated land - Soft rock sea cliffs,6,0.33,20,15,10,7,5
+H84,s3a7,Sparsely vegetated land - Dune grassland,6,0.33,20,15,10,7,5
+H85,s3a9,Sparsely vegetated land - Coastal dune heathland,6,0.33,20,15,10,7,5
+I/J,u1c,"Urban - Artificial, unvegetated, unsealed surface",0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+I1,s1a,Sparsely vegetated land - Inland rock outcrop and scree habitats,6,0.33,30+,30+,30+,30+,30+
+Ib,s1a,Sparsely vegetated land - Inland rock outcrop and scree habitats,6,0.33,30+,30+,30+,30+,30+
+I11,s1a,Sparsely vegetated land - Inland rock outcrop and scree habitats,6,0.33,30+,30+,30+,30+,30+
+I111,s1a,Sparsely vegetated land - Inland rock outcrop and scree habitats,6,0.33,30+,30+,30+,30+,30+
+I112,s1a,Sparsely vegetated land - Inland rock outcrop and scree habitats,6,0.33,30+,30+,30+,30+,30+
+I12,s1a,Sparsely vegetated land - Inland rock outcrop and scree habitats,6,0.33,30+,30+,30+,30+,30+
+I121,s1a5,Sparsely vegetated land - Acidic scree,6,0.33,30+,30+,30+,30+,30+
+I122,s1a6,Sparsely vegetated land - Base-rich scree,6,0.33,30+,30+,30+,30+,30+
+I13,s1b,Sparsely vegetated land - Limestone pavement,8,0.1,20,15,10,7,5
+I14b,s1d,Sparsely vegetated land - Other inland rock and scree,4,0.67,1,1,1,1,1
+I14u,s1d,Sparsely vegetated land - Other inland rock and scree,4,0.67,1,1,1,1,1
+I21,s1 106,Sparsely vegetated land - Inland rock; Quarry - sand and gravel,2,0.67,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+I22,s1 352,Sparsely vegetated land - Inland rock; Disused quarry,2,0.67,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+I23,s1 102,Sparsely vegetated land - Inland rock; Mine,2,0.67,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+I24,u1c,"Urban - Artificial, unvegetated, unsealed surface",0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+I2u,s1d,Sparsely vegetated land - Other inland rock and scree,4,0.67,1,1,1,1,1
+J1M,f2b,Wetland - Purple moor grass and rush pastures,8,0.33,30,25,20,15,10
+J1P,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+J11,c1,Cropland - Arable and horticulture,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J11a,c1,Cropland - Arable and horticulture,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J11/Bu,c1,Cropland - Arable and horticulture,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J11t,c1,Cropland - Arable and horticulture,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J12,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+J12Urb,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+J12v,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+J13,u1a 17,Urban - Open Mosaic Habitats on Previously Developed Land; Ruderal/ephemeral,6,0.67,10,7,4,2,0
+J13Urb,u1a 17,Urban - Open Mosaic Habitats on Previously Developed Land; Ruderal/ephemeral,6,0.67,10,7,4,2,0
+J14,h3h 48,Heathland and shrub - Mixed scrub; Non-native,4,1,10,7,5,3,1
+J1u,c,Cropland,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J1uUrb,u1a 17,Urban - Open Mosaic Habitats on Previously Developed Land; Ruderal/ephemeral,6,0.67,10,7,4,2,0
+J21,h2 75,Heathland and shrub - Hedgerows; Active Management,NA,NA,NA,NA,NA,NA,NA
+J22,h2 77,Heathland and shrub - Hedgerows; Neglected,NA,NA,NA,NA,NA,NA,NA
+J23,h2 1170,Heathland and shrub - Hedgerows; Tree,NA,NA,NA,NA,NA,NA,NA
+J24,u1e 69,Urban - Built linear features; Fence,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J25,u1e,Urban - Built linear features,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J26,NA,NA,NA,NA,NA,NA,NA,NA,NA
+J28,u1e 71,Urban - Built linear features; Earthbank,NA,NA,NA,NA,NA,NA,NA
+J34,u1b,Urban - Developed land; sealed surface,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J35,u1b 113,"Urban - Developed land, sealed surface; Sea wall",0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J360,u1b5,Urban - Buildings,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J361,u1b5,Urban - Buildings,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J362,u1b5,Urban - Buildings,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J363,u1b5,Urban - Buildings,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J364,u1b5,Urban - Buildings,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J36x,u1b5,Urban - Buildings,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J36,u1b5,Urban - Buildings,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J36u,u1b5,Urban - Buildings,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J3x1,u1b,Urban - Developed land; sealed surface,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J37,u1b,Urban - Developed land; sealed surface,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J37/J12/J55,u1b,Urban - Developed land; sealed surface,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J3u,u1b,Urban - Developed land; sealed surface,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J4,s 73,Sparsely vegetated land - Bare ground,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J4u,s 73,Sparsely vegetated land - Bare ground,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J5,1200,Other functional open space,NA,NA,NA,NA,NA,NA,NA
+J511,u1b,Urban - Developed land; sealed surface,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J512,s 73,Sparsely vegetated land - Bare ground,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J52,u1b,Urban - Developed land; sealed surface,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J53,u1b,Urban - Developed land; sealed surface,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J54,u1b,Urban - Developed land; sealed surface,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+J55,u1a 17,Urban - Open Mosaic Habitats on Previously Developed Land; Ruderal/ephemeral,6,0.67,10,7,4,2,0
+J55Urb,u1a 17,Urban - Open Mosaic Habitats on Previously Developed Land; Ruderal/ephemeral,6,0.67,10,7,4,2,0
+J56,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+J56Urb,g4,Grassland - Modified grassland,2,1,7,5,4,2,1
+K,t2g5,Marine inlets and transitional waters - Saline lagoons,6,0.67,10,8,5,3,1
+Linear,u1e,Urban - Built linear features,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+Montane,h1c,Heathland and shrub - Mountain heaths and willow scrub,8,0.33,30+,30+,25,23,15
+Unclassified,1200,Other functional open space,NA,NA,NA,NA,NA,NA,NA
+"Unclassified, not greenspace",1200,Other functional open space,NA,NA,NA,NA,NA,NA,NA
+"Unclassified, area in development",1200,Other functional open space,NA,NA,NA,NA,NA,NA,NA
+GW,u 1120,Urban - Green wall,2,0.67,5,4,3,2,1
+GR,u 1110,Urban - Green roof,2,0.67,5,4,3,2,1
+NA,c1a7,Cropland - Arable field margins cultivated annually,4,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,c1a8,Cropland - Arable field margins game bird mix,4,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,c1a6,Cropland - Arable field margins pollen & nectar,4,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,c1a,Cropland - Arable field margins tussocky,4,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,c1c,Cropland - Cereal crops,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,c1c5,Cropland - Cereal crops winter stubble,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,c1f,Cropland - Horticulture,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,c1e,Cropland - Intensive orchards,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,c1d,Cropland - Non-cereal crops,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,c1b,Cropland - Temporary grass and clover leys,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,21,Grassland - Traditional orchards,6,1,30,25,20,10,5
+NA,NE0011,Grassland - Floodplain Wetland Mosaic (CFGM),6,0.33,20,15,10,8,5
+NA,g1a,Grassland - Lowland dry acid grassland,8,0.33,30+,25,20,15,10
+NA,g1d,Grassland - Other lowland acid grassland,4,1,15,12,10,5,1
+NA,s1a9,Grassland - Tall herb communities (H6430),6,0.33,30,25,20,15,10
+NA,g1b,Grassland - Upland acid grassland,4,1,15,12,10,5,1
+NA,g2b,Grassland - Upland calcareous grassland,6,0.33,25,20,15,12,10
+NA,g3b,Grassland - Upland hay meadows,8,0.33,20,18,15,12,10
+NA,h3a,Heathland and shrub - Blackthorn scrub,4,1,10,7,5,3,1
+NA,h3d,Heathland and shrub - Bramble scrub,4,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,h3e,Heathland and shrub - Gorse scrub,4,1,10,7,5,3,1
+NA,h3f,Heathland and shrub - Hawthorn scrub,4,1,10,7,5,3,1
+NA,h3b,Heathland and shrub - Hazel scrub,4,1,15,12,10,7,5
+NA,h3g,Heathland and shrub - Rhododendron scrub,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,h3c5,Heathland and shrub - Sea buckthorn scrub (Annex 1),6,0.67,10,7,5,3,1
+NA,h3c6,Heathland and shrub - Sea buckthorn scrub (other),2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,h1b,Heathland and shrub - Upland Heathland,6,0.67,30,25,20,15,10
+NA,r1d,Lakes - Aquifer fed naturally fluctuating water bodies,8,0.1,30,20,15,10,1
+NA,362,Lakes - Ornamental lake or pond,2,1,30,20,10,7,5
+NA,NE0001,Lakes - High alkalinity lakes,6,0.33,30,20,10,7,5
+NA,NE0002,Lakes - Low alkalinity lakes,6,0.33,30,20,10,7,5
+NA,NE0003,Lakes - Marl Lakes,6,0.33,30,20,10,7,5
+NA,NE0004,Lakes - Moderate alkalinity lakes,6,0.33,30,20,10,7,5
+NA,NE0005,Lakes - Peat Lakes,6,0.33,5,4,3,2,1
+NA,NE0006,Lakes - Ponds (Priority Habitat),6,0.67,5,4,3,2,1
+NA,NE0012,Lakes - Ponds (Non- Priority Habitat),4,1,10,7,5,3,1
+NA,108,Lakes - Reservoirs,4,0.67,5,4,3,2,1
+NA,NE0013,"Lakes - Temporary lakes, ponds and pools",6,0.67,10,7,5,3,2
+NA,s1c,Sparsely vegetated land - Calaminarian grasslands,8,0.1,20,15,10,7,5
+NA,17,Sparsely vegetated land - Ruderal/Ephemeral,2,1,30+,25,20,15,10
+NA,910,Urban - Allotments,2,1,5,4,3,2,1
+NA,1191,Urban - Bioswale,2,0.67,3,2,1,1,1
+NA,NE0008,Urban - Intensive green roof,2,1,5,4,3,2,1
+NA,800,Urban - Cemeteries and churchyards,4,0.67,20,17,15,12,10
+NA,NE0009,Urban - Other green roof,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,1122,Urban - Facade-bound green wall,2,0.67,5,4,3,2,1
+NA,1121,Urban - Ground based green wall,2,0.67,5,4,3,2,1
+NA,1140,Urban - Ground level planters,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,NE0007,Urban - Biodiverse green roof,4,0.67,10,8,5,3,1
+NA,1160,Urban - Introduced shrub,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,u1a,Urban - Open Mosaic Habitats on Previously Developed Land,6,0.67,10,7,4,2,0
+NA,1192,Urban - Rain garden,2,1,5,4,3,2,1
+NA,1030,Urban - Actively worked sand pit quarry or open cast mine,2,0.67,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,NE0014,Urban - Urban Tree,4,1,30+,30+,27,15,10
+NA,1190,Urban - Sustainable urban drainage feature,2,0.67,5,4,3,2,1
+NA,232,Urban - Un-vegetated garden,0,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,350,Urban - Vacant/derelict land/ bareground,2,1,5,4,3,2,1
+NA,231,Urban - Vegetated garden,2,1,Not Possible,Not Possible,Not Possible,Not Possible,Not Possible
+NA,f1a,Wetland - Blanket bog,8,0.1,30+,30+,30+,30+,30+
+NA,24,Wetland - Depressions on Peat substrates (H7150),8,0.1,30+,30+,30,25,15
+NA,f2a,Wetland - Fens (upland and lowland),8,0.33,30,25,20,15,10
+NA,f1b,Wetland - Lowland raised bog,8,0.1,30+,30+,30,20,15
+NA,NE0010,Wetland - Oceanic Valley Mire[1] (D2.1),8,0.1,30+,30+,30,20,15
+NA,f2e,Wetland - Reedbeds,6,0.67,12,10,7,5,3
+NA,f2a8,Wetland - Transition mires and quaking bogs (H7140),8,0.1,30+,30+,30,25,15
+NA,53,Woodland and forest - Felled,6,1,30+,Not Possible,Not Possible,Not Possible,Not Possible
+NA,w1c,Woodland and forest - Lowland beech and yew woodland,6,0.33,30+,30+,30+,25,10
+NA,w1f,Woodland and forest - Lowland mixed deciduous woodland,6,0.33,30+,30+,30+,25,10
+NA,w2a,Woodland and forest - Native pine woodlands,6,0.33,30+,30+,30+,25,10
+NA,w2b,Woodland and forest - Other Scot's Pine woodland,4,0.67,30+,30+,30+,25,10
+NA,w1g,Woodland and forest - Other woodland; broadleaved,4,1,30+,25,15,7,5
+NA,w1e,Woodland and forest - Upland birchwoods,6,0.67,30+,30,25,20,10
+NA,w1b,Woodland and forest - Upland mixed ashwoods,6,0.33,30+,30+,30+,25,10
+NA,w1a,Woodland and forest - Upland oakwood,6,0.33,30+,30+,30+,25,10
+NA,w1d,Woodland and forest - Wet woodland,6,0.67,30+,30,15,10,5
+NA,20,Woodland and forest - Wood-pasture and parkland,8,0.1,30+,30+,30+,25,10
+NA,x02,Coastal lagoons - Coastal lagoons,6,0.67,10,8,5,3,1
+NA,a1.1,Rocky shore - High energy littoral rock,6,0.33,10,7,4,2,1
+NA,A1.1,"Rocky shore - High energy littoral rock - on peat, clay or chalk",8,0.1,30+,30+,30+,30+,30+
+NA,A1.2,Rocky shore - Moderate energy littoral rock,6,0.33,13,8,4,2,1
+NA,A1.2 PCC,"Rocky shore - Moderate energy littoral rock - on peat, clay or chalk",8,0.1,30+,30+,30+,30+,30+
+NA,A1.3,Rocky shore - Low energy littoral rock,6,0.33,15,10,5,1,1
+NA,A1.3 PCC,"Rocky shore - Low energy littoral rock - on peat, clay or chalk",8,0.1,30+,30+,30+,30+,30+
+NA,A1.4,Rocky shore - Features of littoral rock,6,0.33,13,8,4,2,1
+NA,A1.PCC,"Rocky shore - Features of littoral rock - on peat, clay or chalk",8,0.1,30+,30+,30+,30+,30+
+NA,A2.5,Coastal saltmarsh - Saltmarshes and saline reedbeds,6,0.33,3,2,1,1,1
+NA,ART_A2.5,Coastal saltmarsh - Artificial saltmarshes and saline reedbeds,2,0.33,6,4,3,2,1
+NA,A2.1,Intertidal sediment - Littoral coarse sediment,4,0.67,5,4,3,2,1
+NA,A2.3,Intertidal sediment - Littoral mud,6,0.33,15,10,7,3,1
+NA,A2.4,Intertidal sediment - Littoral mixed sediments,6,0.33,15,10,7,3,1
+NA,A2.6,Intertidal sediment - Littoral seagrass,6,0.33,20,15,10,5,2
+NA,A2.6 PCC,"Intertidal sediment - Littoral seagrass on peat, clay or chalk",8,0.1,30+,30+,30+,30+,30+
+NA,A2.7 M,Intertidal sediment - Littoral biogenic reefs - Mussels,6,0.33,15,10,5,3,3
+NA,A2.7 S,Intertidal sediment - Littoral biogenic reefs - Sabellaria,6,0.33,15,10,5,3,3
+NA,A2.8,Intertidal sediment - Features of littoral sediment,6,0.33,10,7,5,3,3
+NA,ART_A2.1,Intertidal sediment - Artificial littoral coarse sediment,2,0.67,3,2,1,1,1
+NA,ART_A2.3,Intertidal sediment - Artificial littoral mud,2,0.33,6,4,3,2,1
+NA,ART_A2.21/A2.22/A2.23,Intertidal sediment - Artificial littoral sand,2,0.67,4,2,1,1,1
+NA,ART_A2.24,Intertidal sediment - Artificial littoral muddy sand,2,0.33,5,4,3,2,1
+NA,ART_A2.4,Intertidal sediment - Artificial littoral mixed sediments,2,0.33,5,4,3,2,1
+NA,ART_A2.6,Intertidal sediment - Artificial littoral seagrass,2,0.33,20,15,10,5,2
+NA,ART_A2.7,Intertidal sediment - Artificial littoral biogenic reefs,2,0.33,15,10,5,3,3
+NA,A2.21/A2.22/A2.23,Intertidal sediment - Littoral sand,4,0.67,4,2,1,1,1
+NA,A2.24,Intertidal sediment - Littoral muddy sand,6,0.33,5,4,3,2,1
+NA,ART_A1,Intertidal Hard Structures - Artificial hard structures,2,0.67,15,10,5,2,1
+NA,ART_A1.4,Intertidal Hard Structures - Artificial features of hard structures,2,0.67,13,8,4,2,1
+NA,ART_A1_IGGI,Intertidal Hard Structures - Artificial hard structures with Integrated Greening of Grey Infrastructure (IGGI),4,0.67,13,8,4,2,1
