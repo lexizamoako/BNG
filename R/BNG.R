@@ -1,65 +1,60 @@
-#' Calculate BNG Units
+#' Calculate BNG Units with Conservative Defaults
 #'
 #' This function calculates total Biodiversity Net Gain (BNG) units from an sf object of polygons by joining an inbuilt lookup
-#' (using the column "HabCode_B") which supplies values for UKHab, Distinctiveness, condition and strategic_significance.
-#' If the lookup does not include the columns "condition" or "strategic_significance", default values (3 and 1, respectively) are added.
+#' (using the column "HabCode_B") which supplies values for UKHab and Distinctiveness.
+#' It then applies conservative defaults for condition (Poor = 1) and strategic significance (Low = 1.0)
+#' unless the user explicitly specifies other values.
 #'
 #' @param polygons An sf object containing polygons. Must include a column "HabCode_B".
 #' @param lookup_path Optional character path to the lookup CSV file. If not provided, the package's default file in inst/extdata is used.
+#' @param user_condition Numeric value (1–3) to apply to all habitats; defaults to 1 (Poor).
+#' @param user_strategic_significance Numeric value (e.g., 1.0, 1.1, 1.15) to apply to all habitats; defaults to 1.0 (Low).
 #'
 #' @return A numeric value representing the total BNG units.
 #' @export
 #'
 #' @examples
 #' \dontrun{
-#'   library(sf)
-#'   # Assuming 'polys' is an sf object with a column "HabCode_B"
 #'   total_units <- run_BNG(polys)
+#'   total_units <- run_BNG(polys, user_condition = 2, user_strategic_significance = 1.1)
 #' }
-run_BNG <- function(polygons, lookup_path = NULL) {
-
+run_BNG <- function(polygons,
+                    lookup_path = NULL,
+                    user_condition = 1,
+                    user_strategic_significance = 1.0) {
+  
   if (is.null(lookup_path)) {
     lookup_path <- system.file("extdata", "BNG_lookup.csv", package = "BNG")
     if (lookup_path == "") stop("BNG lookup file not found in package extdata.")
   }
-
   lookup_data <- read.csv(lookup_path, stringsAsFactors = FALSE)
-
-  # lookup includes the essential column for calculation.
+  
+  # ensure Distinctiveness present
   if (!"Distinctiveness" %in% names(lookup_data)) {
     stop("Lookup file must contain a column 'Distinctiveness'.")
   }
-
-  # Add default values if missing in the lookup.
-  if (!"condition" %in% names(lookup_data)) {
-    lookup_data$condition <- 3
-  }
-  if (!"strategic_significance" %in% names(lookup_data)) {
-    lookup_data$strategic_significance <- 1
-  }
-
-  # Ensure polygons have the join key.
-  if (!"HabCode_B" %in% names(polygons)) {
-    stop("Polygons must have the column 'HabCode_B'.")
-  }
-
-  # Join lookup data to polygons based on HabCode_B.
+  
+  # Join lookup to polygons on HabCode_B
   polygons <- dplyr::left_join(polygons, lookup_data, by = "HabCode_B")
-
-  # Calculate area in hectares.
+  
+  # Apply user-specified or default condition and strategic significance
+  polygons$condition <- user_condition
+  polygons$strategic_significance <- user_strategic_significance
+  
+  # Compute area in hectares
   polygons$area_ha <- as.numeric(sf::st_area(polygons)) / 10000
-
-  # Verify that all required attributes now exist.
+  
+  # Validate presence of required columns
   required_cols <- c("condition", "strategic_significance", "Distinctiveness", "area_ha")
   missing_cols <- setdiff(required_cols, names(polygons))
-  if (length(missing_cols) > 0) {
-    stop("Polygons are missing the following required attributes: ", paste(missing_cols, collapse = ", "))
+  if (length(missing_cols)) {
+    stop("Missing: ", paste(missing_cols, collapse = ", "))
   }
-
-  # Compute BNG units per polygon and sum.
-  polygons$BNG_units <- polygons$condition * polygons$strategic_significance *
-    polygons$Distinctiveness * polygons$area_ha
-
-  total_units <- sum(polygons$BNG_units, na.rm = TRUE)
-  return(total_units)
+  
+  # Calculate and sum BNG units
+  polygons$BNG_units <- with(polygons,
+                             condition * strategic_significance * Distinctiveness * area_ha
+  )
+  
+  sum(polygons$BNG_units, na.rm = TRUE)
 }

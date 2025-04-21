@@ -2,27 +2,36 @@
 % Please edit documentation in R/BNG.R
 \name{run_BNG}
 \alias{run_BNG}
-\title{Calculate BNG Units}
+\title{Calculate BNG Units with Conservative Defaults}
 \usage{
-run_BNG(polygons, lookup_path = NULL)
+run_BNG(
+  polygons,
+  lookup_path = NULL,
+  user_condition = 1,
+  user_strategic_significance = 1
+)
 }
 \arguments{
 \item{polygons}{An sf object containing polygons. Must include a column "HabCode_B".}
 
 \item{lookup_path}{Optional character path to the lookup CSV file. If not provided, the package's default file in inst/extdata is used.}
+
+\item{user_condition}{Numeric value (1–3) to apply to all habitats; defaults to 1 (Poor).}
+
+\item{user_strategic_significance}{Numeric value (e.g., 1.0, 1.1, 1.15) to apply to all habitats; defaults to 1.0 (Low).}
 }
 \value{
 A numeric value representing the total BNG units.
 }
 \description{
 This function calculates total Biodiversity Net Gain (BNG) units from an sf object of polygons by joining an inbuilt lookup
-(using the column "HabCode_B") which supplies values for UKHab, Distinctiveness, condition and strategic_significance.
-If the lookup does not include the columns "condition" or "strategic_significance", default values (3 and 1, respectively) are added.
+(using the column "HabCode_B") which supplies values for UKHab and Distinctiveness.
+It then applies conservative defaults for condition (Poor = 1) and strategic significance (Low = 1.0)
+unless the user explicitly specifies other values.
 }
 \examples{
 \dontrun{
-  library(sf)
-  # Assuming 'polys' is an sf object with a column "HabCode_B"
   total_units <- run_BNG(polys)
+  total_units <- run_BNG(polys, user_condition = 2, user_strategic_significance = 1.1)
 }
 }
